@@ -67,3 +67,25 @@ i:hover {
 }
 
 /* ................... */
+
+.cskc-redirect {
+  text-decoration: none;
+}
+
+.cskc-redirect:hover {
+  color: #fff;
+}
+
+.footer {
+  padding: 2rem;
+  background: #edf9fc;
+}
+
+.footer h6 {
+  margin-bottom: 1rem;
+  font-weight: 700;
+}
+
+.footer i {
+  font-size: 1.5rem;
+}
