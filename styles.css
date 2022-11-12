@@ -28,6 +28,9 @@ p {
   margin-bottom: 0;
   font-family: "Roboto", sans-serif;
 }
+.bullet {
+  height: 1rem;
+}
 .alternate {
   background-color: #f6e5f5;
 }
